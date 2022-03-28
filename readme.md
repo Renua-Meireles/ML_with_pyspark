@@ -4,10 +4,8 @@ This repository is focused in using some basic **Machine Learning** operations w
 
 Feel free to open this notebook in **Colab** and play with the code as you wish.
 
-<div align="center">
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Renua-Meireles/ML_with_pyspark/blob/main/ml_with_pyspark.ipynb)
 
-[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/Renua-Meireles/ML_with_pyspark/blob/main/ml_with_pyspark.ipynb)
-</div>
 ---
 
 The main topics covered by this material are:
